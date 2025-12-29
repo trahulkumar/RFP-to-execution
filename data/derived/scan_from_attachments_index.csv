@@ -1,0 +1,203 @@
+solicitation_number,ok,http_status,content_type,documents_count,title
+DCKA-2019-Q-0041,True,200,application/json; charset=utf-8,9,Design Services for the DC PLUG Program
+DCKA-2019-R-0076,True,200,application/json; charset=utf-8,2,DIGITAL CURBSIDE PERMIT MANAGEMENT SYSTEM
+DCKA-2019-B-0088,True,200,application/json; charset=utf-8,8,"Massachusetts Avenue, NW Rehabilitation from 20th Street to Waterside Drive"
+DCRL-2020-R-0042,True,200,application/json; charset=utf-8,4,Temporary Safe Heaven
+DCKA-2020-B-0011,True,200,application/json; charset=utf-8,4,Safety and Geometric Improvements of I-295
+DCKA-2021-B-0007,True,200,application/json; charset=utf-8,2,"RECONSTRUCTION OF FLORIDA AVENUE AND 9TH STREET, NW FROM T STREET TO BARRY PLACE, NW"
+DCKA-2021-D-0018,True,200,application/json; charset=utf-8,1,CONSTRUCTION MANAGEMENT AND INSPECTION SERVICES FOR DC PLUG FEEDER CONSTRUCTION PROJECTS
+DCEB-2021-R-0001,True,200,application/json; charset=utf-8,5,Government of the District of Columbia Disparity Study
+DCKA-2021-B-0040,True,200,application/json; charset=utf-8,3,Chestnut Street Sidewalk Improvements
+DCKA-2021-B-0051,True,200,application/json; charset=utf-8,2,Traffic Signal Construction Project
+DCKA-2022-B-0005,True,200,application/json; charset=utf-8,5,"Florida Avenue, NE from 2nd Street, NE to H Street, NE."
+DCKA-2022-R-0016,True,200,application/json; charset=utf-8,7,District Transportation Demand Management (TDM)  goDCgo & DDOT Transit Services
+Doc600601,True,200,application/json; charset=utf-8,1,FY22 - DDOT Parking Meter Equipment 
+Doc600237,True,200,application/json; charset=utf-8,1,FY22 - DDOT Integrated Parking Management System 
+DCKA-2022-B-0069,True,200,application/json; charset=utf-8,5,District of Columbia Power Line Undergrounding (DC Plug) Feeder 14758
+DCKA-2022-B-0068,True,200,application/json; charset=utf-8,6,District of Columbia Power Line Undergrounding (DC Plug) Feeder 14008
+DCKA-2023-B-0010,True,200,application/json; charset=utf-8,3,Florida Ave N.E and New York Ave N.E. Intersection
+DCEB-2023-R-0003,True,200,application/json; charset=utf-8,8,Poplar Point Owners Representative Services
+DCKA-2023-B-0042,True,200,application/json; charset=utf-8,15,District of Columbia Power Line Undergrounding (DC Plug) Feeder 15001
+PCSB-2023-02,True,200,application/json; charset=utf-8,2,Approved Auditor List
+DCKA-2024-Q-0023,True,200,application/json; charset=utf-8,4,Construction Management Services for Rehabilitation of Theodore Roosevelt Memorial Bridge
+DCKA-2024-B-0046,True,200,application/json; charset=utf-8,2,Freeway I-295 DMS (Dynamic Message Sign) Replacement
+DCKA-2024-B-0009,True,200,application/json; charset=utf-8,8,Rehabilitation of Theodore Roosevelt Bridge
+DCKA-2024-Q-0070,True,200,application/json; charset=utf-8,4,Construction Management Services For Alley Restoration Citywide Project.
+DCKA-2024-B-0071,True,200,application/json; charset=utf-8,3,"Pennsylvania Ave West Streetscape from 17th Street 
+NW to Washington Circle
+"
+DCKA-2024-R-0101,True,200,application/json; charset=utf-8,4,Secure Bicycle Parking for District Residents (Bike Sheds)
+DCKA-2025-B-0005,False,204,,0,
+DCEB-2025-R-0001,True,200,application/json; charset=utf-8,5,Downtown Comprehensive Transportation Plan
+DCKA-2025-B-0082,True,200,application/json; charset=utf-8,4,Movable Barrier System Storage and Maintenance
+DCKA-2025-B-0070,True,200,application/json; charset=utf-8,3,"Reconstruction of Kenilworth Avenue, NE."
+DCKA-2025-B-007,False,204,,0,
+DC PCSB-2025-04,True,200,application/json; charset=utf-8,1,The District of Columbia Public Charter School Board (DC PCSB) seeks proposals from individuals and organizations that are experienced in providing Data Analytics Engineering services for PostgreSQL databases hosted on Amazon Web Services and Python code stored in GitLab.
+DCEB-2026-B-1001,True,200,application/json; charset=utf-8,4,Grant Reviewer Consultant Services
+DCKA-2025-Q-0080_Amd3,False,204,,0,
+DCKA-2019-B-0002,True,200,application/json; charset=utf-8,7,"Reconstruction of Oregon Avenue, NW from Military Road to Western Avenue from Oregon Avenue to 321st Street"
+DCKA-2019-B-0057,True,200,application/json; charset=utf-8,3,SIDEWALK CONSTRUCTION  SAFE ROUTES TO SCHOOLS (SRTS)
+DCKA-2019-B-0083,True,200,application/json; charset=utf-8,3,Martin Luther King Jr. Avenue SE Revitalization from 4th Street SE to Milwaukee PL SE
+DCKA-2019-B-0044,True,200,application/json; charset=utf-8,4,"Rehabilitation of 16th Street, NW Bridge over Piney Branch Parkwy (Bridge No. 0022)"
+DCKA-2019-I-0081,True,200,application/json; charset=utf-8,5,DC Circulator & DC Streetcar Advertisement Franchise
+DCKA-2019-I-0087,True,200,application/json; charset=utf-8,3,Microgrids to Support DC Circulator Electric Transit Bus Fleet Facility
+DCEB-2019-R-0004,True,200,application/json; charset=utf-8,7,Re-Imagining Reeves Public Life Study Republication
+DCEB-2020-B-1002,True,200,application/json; charset=utf-8,5,Grant Reviewer Consultant Services
+DCKA-2020-B-0074,True,200,application/json; charset=utf-8,1,Thermoplastic pavement marking
+DCKA-2021-B-0025,True,200,application/json; charset=utf-8,4,Cleveland Park Streetscape and Drainage Improvement Project
+DCKA-2022-R-0002,True,200,application/json; charset=utf-8,3,Curbside Asset Management Services
+DCKA-2021-B-0078,True,200,application/json; charset=utf-8,2,LED SIGN PROCUREMENT AND INSTALLATION
+DCRL-2022-H-0110,True,200,application/json; charset=utf-8,1,Congregate Care  Therapeutic Group Home Services
+DCBD-2023-R-0001,True,200,application/json; charset=utf-8,6,North Capitol Crossroads Vision
+DCKA-2023-B-0006,True,200,application/json; charset=utf-8,6,Metropolitan Branch Trail from Fort Totten NE to Takoma NW
+DCKA-2023-Q-0080,True,200,application/json; charset=utf-8,3,STREETSCAPE DESIGN FOR BLACK LIVES MATTER PLAZA
+DCKA-2024-B-0058,True,200,application/json; charset=utf-8,13,"Citywide Large Guide and Traffic Sign Maintenance  Standard, Expedited, and Emergency Services"
+DCKA-Q-2023-0063,True,200,application/json; charset=utf-8,5,Engineering Consultant for Traffic Engineering Design
+DCRL-2024-F-0027,False,204,,0,
+DCKA-2024-B-0044,True,200,application/json; charset=utf-8,13,Connecticut Avenue Streetscape and Deckover.
+DCKA-2024-B-0063,True,200,application/json; charset=utf-8,2,Pennsylvania and Potomac Ave Intersection Improvements
+DCKA-2019-B-0018,True,200,application/json; charset=utf-8,2,Streetlight Construction Citywide
+DCKA-2019-R-0094,True,200,application/json; charset=utf-8,1,ASSURANCE AND COMPLIANCE SERVICES
+DCKA-2021-B-0022,True,200,application/json; charset=utf-8,7,CITYWIDE TRAFFIC SAFETY CONSTRUCTION
+DCKA-2020-B-0047,True,200,application/json; charset=utf-8,1,Roadway Sign and Maintenance Backlog
+DCEB-2021-R-0002,True,200,application/json; charset=utf-8,5,Real Estate Appraisals and Related Services
+DCKA-2021-B-0024,True,200,application/json; charset=utf-8,5,"Rehabilitation of 16th Street, NW Bridge over Piney Branch Parkway (Bridge No. 0022)"
+DCKA-2020-B-0058,True,200,application/json; charset=utf-8,2,Traffic Signal and Streetlight Utility Locating and Marking Citywide
+DCBD-2022-R-0001,True,200,application/json; charset=utf-8,5,Rock Creek West Corridors Planning 
+DCKA-2022-D-0007,True,200,application/json; charset=utf-8,9,AUTOMATED TRAFFIC ENFORCEMENT BRANCH (ATEB) SYSTEM
+DCKA-2021-R-0062,True,200,application/json; charset=utf-8,3,Cellular Phone Payment Method for Digital Parking Meters
+DCEB-2022-I-0001,True,200,application/json; charset=utf-8,3,Request for Information (RFI) - Housing in Downtown (HID)
+DCBD-2022-R-0002,True,200,application/json; charset=utf-8,5,Streets for People Downtown Economic Recovery Public Realm Planning
+DCKA-2024-Q-0001,True,200,application/json; charset=utf-8,4,Construction Management Services For FY-25 Local Sidewalk Restoration Citywide Project.
+DCEB-2024-R-0002,True,200,application/json; charset=utf-8,4,Housing Demand and Neighborhood Change Assessment
+DCKA-2024-B-0010,True,200,application/json; charset=utf-8,1,Audit Services
+DCKA-2024-I-0018,True,200,application/json; charset=utf-8,2,RFI Oversize/Overweight Routing Tool Upgrade
+DCKA-2023-B-0050,True,200,application/json; charset=utf-8,6,Tree Removal Services
+DCKA-2024-B-0045,True,200,application/json; charset=utf-8,2,LOCAL PAVEMENT RESTORATION CITYWIDE
+DCKA-2025-Q-0015,False,204,,0,
+DCKA-2025-Q-0019,True,200,application/json; charset=utf-8,4,Request for Qualifications  Program Management For the DC PLUG Program
+DCKA-2025-Q-0080,True,200,application/json; charset=utf-8,2,Inspection and Engineering Support Services for Tunnels
+DCKA-2025-B-0119,True,200,application/json; charset=utf-8,2,"HORIZONTAL SIDEWALK CUTTING - LOCAL SIDEWALK 
+RESTORATION CITYWIDE"
+DCKA-2026-R-0010,True,200,application/json; charset=utf-8,1,Final Parking Meter Coin Collection
+DCKA-2025-Q-0080_Amd4,False,204,,0,
+DCKA-2018-B-0018,False,204,,0,
+DCKA-2019-B-0029,True,200,application/json; charset=utf-8,2,"Blair Road/Cedar Street/4th Street, N.W., Intersection Improvements Ward 4 - Washington, D.C."
+RM-17-HCA-MHRS-00-XXX-BY4-RDS,True,200,application/json; charset=utf-8,6,Mental Health Rehabilitation  Services 
+PCSB-2019-01,True,200,application/json; charset=utf-8,1,Financial Audits for DC Public Charter Schools
+DCKA-2019-Q-0092,True,200,application/json; charset=utf-8,1,Engineering Consultant for Traffic Signal Management and Design
+DCEB-2020-B-1001,True,200,application/json; charset=utf-8,4,St. Elizabeths East Communications Support Services
+DCEB-2020-R-0002,False,204,,0,
+DCKA-2021-B-0050,True,200,application/json; charset=utf-8,1,Douglas St. Pedestrian Bridge over Kenilworth Ave.
+DCKA-2021-B-0020,True,200,application/json; charset=utf-8,4,Federal Aid Pavement Restoration (NHPP)
+DCKA-2022-Q-0034,True,200,application/json; charset=utf-8,2,Citywide Federal Aid Consultant Bridge Inspection
+DCKA-2022-Q-0009,True,200,application/json; charset=utf-8,4,CONSTRUCTION MANAGEMENT SERVICES FOR ALLEY RESTORATION PROJECT CITYWIDE
+DCKA-2022-B-0036,True,200,application/json; charset=utf-8,12,District of Columbia Power Line Undergrounding (DC Plug) Feeder 15009
+DCEB-2023-R-0002,True,200,application/json; charset=utf-8,4,Cherry Blossom (CB) Marketing Tour
+DCKA-2022-I-0067,True,200,application/json; charset=utf-8,2,DC Circulator & DC Streetcar Advertisement 
+DCEB-023-R-0005,True,200,application/json; charset=utf-8,3,Housing Needs and Assessment Survey
+DCKA-23-B-0029,False,204,,0,
+DCKA-2019-B-0050,True,200,application/json; charset=utf-8,1,Rock Creek Park Trail and Pedestrian Bridge
+DCBD-2019-R-0001,True,200,application/json; charset=utf-8,2,Public Engagement for the Districts Comprehensive Plan 
+DCKA-2019-C-0046,True,200,application/json; charset=utf-8,2,CONSTRUCTION FOR PREVENTATIVE MAINTENANCE AND EMERGENCY REPAIRS
+DCKA-2020-B-0045,True,200,application/json; charset=utf-8,5,Pennsylvania Avenue SE 2nd and 14th Street Light Upgrade
+DCKA-2020-Q-0048,True,200,application/json; charset=utf-8,5,FY20 Architect-Engineer (A/E) Schedule
+DCKA-2020-B-0007,True,200,application/json; charset=utf-8,6,"Southern Avenue from Barnaby Rd, SE to UMC Campus"
+DCKA-2020-B-0056,True,200,application/json; charset=utf-8,4,"C Street, NE. Implementation"
+DCKA-2020-B-0046,True,200,application/json; charset=utf-8,5,"Construction of 16th Street, N.W. Bus Lanes from H Street, N.W. to Arkansas Avenue, N.W."
+DCEB-2021-R-0001-001,False,204,,0,
+DCKA-2022-B-0066,True,200,application/json; charset=utf-8,4,Lane Place Pedestrian Bridge Replacement
+DCKA-2021-B-0009,True,200,application/json; charset=utf-8,5,ITS Systems Maintenance
+DCEB-2023-R-0005,False,204,,0,
+PCSB-2023-03,True,200,application/json; charset=utf-8,2,The DC Public Charter School Board has issued a request for proposals for Office Furniture (Solicitation PCSB-2023-03).
+DCEB-2023-R-0008,True,200,application/json; charset=utf-8,5,Sports Study
+DCEB-2023-R-0006,True,200,application/json; charset=utf-8,5,DC Small Business Census
+DCKA-2021-R-0031,True,200,application/json; charset=utf-8,1,Research Management Support
+DCKA-2020-B-0013,True,200,application/json; charset=utf-8,2,Guardrail and Attenuator Upgrade and Replacement
+DCKA-2021-B-0053,True,200,application/json; charset=utf-8,6,THERMOPLASTIC PAVEMENT CITYWIDE PROJECT
+DCEB-2021-B-1002,True,200,application/json; charset=utf-8,2,DC Stay Outreach Marketing
+DCKA-2021-I-0049,True,200,application/json; charset=utf-8,3,Emerging Technology Solutions for Pedestrian and Cyclist Safety in Intersections
+DCKA-2022-Q-0023,True,200,application/json; charset=utf-8,2,BLM Plaza Phase II
+DCEB-2022-I-0002,True,200,application/json; charset=utf-8,2,Request for Information (RFI)  Local Food Purchasing Assistance (LFPA)
+DCRL-2022-H-0036,True,200,application/json; charset=utf-8,2,Congregate Care  Therapeutic Group Home Services
+DCEB-2023-R-0004,True,200,application/json; charset=utf-8,6,Black Homeownership Marketing Campaign
+DCKA-2023-B-0019,True,200,application/json; charset=utf-8,3,District of Columbia Power Line Undergrounding (DC Plug) Feeder 15166
+DCKA-2023-Q-0075,True,200,application/json; charset=utf-8,3,Citywide Pavement Markings Restoration Project
+DCKA-2023-Q-0040,True,200,application/json; charset=utf-8,5,FY-25 Local Pavement Restoration Citywide Project
+DCKA-2024-B-0011,True,200,application/json; charset=utf-8,9,I395 HOV Rehab
+DCKA-2023-R-0037,True,200,application/json; charset=utf-8,2,Asset Prevention and Preventative Maintenance of Tunnels
+DCKA-2024-B-0008,True,200,application/json; charset=utf-8,2,Citywide Thermoplastic Pavement Marking
+DCKA-2024-B-0017,True,200,application/json; charset=utf-8,3,Traffic Signal Maintenance (Citywide)
+DCKA-2024-B-0047,True,200,application/json; charset=utf-8,3,Construction of Garfield Park-Canal Park Connector
+DCKA-2024-B-0066,True,200,application/json; charset=utf-8,2,Intelligent Transportation System Maintenance
+DCKA-2018-B-0084,True,200,application/json; charset=utf-8,8,FY 2018 FEDERAL AID CITYWIDE PAVEMENT RESTORATION
+DCKA-2019-B-0031,True,200,application/json; charset=utf-8,2,I-395 Sign & Structure Improvement
+DCKA-2019-B-0100,True,200,application/json; charset=utf-8,4,"RECONSTRUCTION OF FLORIDA AVENUE, AND 9TH STREET, NW FROM T STREET TO BARRY PLACE, NW"
+DCKA-2019-Q-0066,True,200,application/json; charset=utf-8,3,CM Federal Aid Preventive Maintenance and Emergency Repairs on Highway Structures
+PCSB-2020-02,True,200,application/json; charset=utf-8,1,Approved Auditors List
+DCEB-2021-B-1001,True,200,application/json; charset=utf-8,8,Walter Reed Asbestos Abatement and Demolition Services
+OPC-2024-01,True,200,application/json; charset=utf-8,1,Strategic Planning Retreat Facilitation
+DCKA-2023-Q-0041,True,200,application/json; charset=utf-8,1,CM FOR SOUTH CAPITOL STREET CIRCULATOR FACILITY
+DCEB-2024-R-0003,True,200,application/json; charset=utf-8,4,Poplar Point Owners Representative Services
+DCKA-2024-B-0080,True,200,application/json; charset=utf-8,4,Multimodal Traffic Safety Construction
+DCKA-2024-B-0073,True,200,application/json; charset=utf-8,5,District of Columbia Power Line Undergrounding (DC Plug) Feeder 14702/118
+DCKA-2024-B-0086,True,200,application/json; charset=utf-8,2,Construction of Garfield Park-Canal Park Connector
+DCKA-2024-B-0093,True,200,application/json; charset=utf-8,3,FY24 Coin Revenue Collection
+DCEB-2024-Q-1001,True,200,application/json; charset=utf-8,1,Real Estate and Financial Advisory Services
+DCKA-2024-Q-0103,False,204,,0,
+DCKA-2017-B-0059,True,200,application/json; charset=utf-8,4,Parkside Pedestrian Bridge over Kenilworth Avenue and CSXT/WAMATA Tracks
+DCKA-2018-Q-0107,True,200,application/json; charset=utf-8,9,DC PLUG PMC
+DCKA-2019-B-0005,True,200,application/json; charset=utf-8,2,FY18 Local Sidewalk Restoration Citywide
+DCKA-2019-R-0001,True,200,application/json; charset=utf-8,2,Management of the Union Station Bicycle Facility
+DCKA-B-2020-0074,False,204,,0,
+DCKA-2021-B-0060,True,200,application/json; charset=utf-8,4,Non-Citywide Local Pavement Restoration
+DCKA-2020-B-0018,True,200,application/json; charset=utf-8,3,Conduit Conditioning for Fiber on Major Arterials
+DCKA-2021-Q-0036,True,200,application/json; charset=utf-8,4,"Construction Management Service for FY-20 Repairs, Replace, and Upgrade Guardrail and Impact Attenuator- City Wide"
+DCKA-2022-W-0023,False,204,,0,
+PCSB-2023-01,True,200,application/json; charset=utf-8,1,Approved Auditor List
+DCKA-2024-R-0042,True,200,application/json; charset=utf-8,3,Autonomous Vehicles Program: Safe And Efficient Deployment of Autonomous Vehicles Study
+DCRL-2019-H-0077,True,200,application/json; charset=utf-8,3,Residential and Educational Services for Youth with Autism
+PCSB-2022-01,True,200,application/json; charset=utf-8,1,Approved Auditor List
+DCKA-2022-B-0042,True,200,application/json; charset=utf-8,1,Citywide Large Guide Sign Maintenance
+DCKA-2024-B-0036,True,200,application/json; charset=utf-8,1,Curbside Signage
+DCKA-2023-I-0087,True,200,application/json; charset=utf-8,1,Curbside Automated Enforcement 
+DCEB-2024-Q-1002,True,200,application/json; charset=utf-8,3,"Urban Planning, Design, Land Use and Architectural  Services"
+DCKA-2025-B-0013,True,200,application/json; charset=utf-8,6,"Improvement of Pennsylvania Ave, SE Minnesota Ave, SE.  Intersection"
+DCKA-2025-B-0023,True,200,application/json; charset=utf-8,4,District of Columbia Power Line Undergrounding (DC Plug) Feeder 14093
+DCKA-2025-B-0051,True,200,application/json; charset=utf-8,5,William Howard Taft Bridge  Pedestrian Railing Improvement Project  Construction
+DCKA-2025-Q-0055,True,200,application/json; charset=utf-8,1,Manual Bicycle and Scooter Counts
+DCKA-2025-B-0034,True,200,application/json; charset=utf-8,3,Federal Aid Citywide Pavement Restoration
+E-mail Solicitation (E-Solicitation),True,200,application/json; charset=utf-8,1, Youth Program Management System
+DC PCSB-2025-03,True,200,application/json; charset=utf-8,1,The District of Columbia Public Charter School Board (DC PCSB) seeks proposals from individuals and organizations that are experienced in providing Data Science Services for PostgreSQL databases hosted on Amazon Web Services and Python code stored in GitLab.
+DCKA-2019-Q-0021,True,200,application/json; charset=utf-8,3,CM for FY18 FEDERAL AID PAVEMENT RESTORATION - STP
+DCEB-2019-R-0003,True,200,application/json; charset=utf-8,2,Re-Imagining Reeves Market Study 
+DCKA-2021-Q-0004,True,200,application/json; charset=utf-8,3,Citywide Open-End Bridge Design Consultant Services
+DCEB-2021-R-0003,True,200,application/json; charset=utf-8,2,Real Estate Appraisals and Related Services
+DCKA-2023-B-0035,True,200,application/json; charset=utf-8,1,"S Street, NW Revitalization "
+DCKA-2025-B-0024,True,200,application/json; charset=utf-8,1,District of Columbia Power Line Undergrounding (DC Plug) Feeder 15021
+PCSB-2021-03,True,200,application/json; charset=utf-8,1,Approved Auditor List
+DCKA-2021-Q-0071,True,200,application/json; charset=utf-8,1,Program Management Services for Right of Way (ROW) Project - City Wide
+DCEB-2023-R-0007,True,200,application/json; charset=utf-8,4,Industrial Revenue Bond Counsel Legal Services
+DCKA-2025-Q-0011,True,200,application/json; charset=utf-8,2,"Construction Management Services For
+Federal-Aid Citywide Pavement Restoration STBG Contract."
+DCKA-2025-Q-0011-CM,False,204,,0,
+PCSB-2025-01,True,200,application/json; charset=utf-8,1,"The DC Public Charter School Board has issued
+a request for proposals for individuals and
+organizations that are experienced in publicfacing
+web-based reports that display data,
+charts, and graphics."
+DCKA-2025-B-0085,True,200,application/json; charset=utf-8,3,District of Columbia Power Line Undergrounding (DC Plug) Feeder 467
+DC PCSB-2025-05,True,200,application/json; charset=utf-8,1,"The District of Columbia Public Charter School Board (DC PCSB) seeks proposals from individuals and organizations that are experienced in providing Learning Management Systems (LMS). The DC PCSB will begin providing training for over 700 new and experienced School Board of Trustees Members leading the Districts 66 Local Education Agencies (LEAs). We seek an LMS that can house the training content, track learner usage, facilitate communicate between learners and instructors, assess learner understanding, and be adaptable for multilingual learners and/or those with learning disabilities. The proposal should include technical support and system access for one year."
+DCRL-2018-R-0052,True,200,application/json; charset=utf-8,1,Nursing Staff Services
+DCRL-2019-R-0122,True,200,application/json; charset=utf-8,1,Intensive Foster Care Services
+DCKA-2021-Q-0072,True,200,application/json; charset=utf-8,1,Design-Build Services for H Street NE Bridge Replacement
+DCKA-2022-R-0057,True,200,application/json; charset=utf-8,3,Legal Support for Project Labor Agreements
+PCSB-2022-02,True,200,application/json; charset=utf-8,1,"Individuals and organizations that are experienced in creating conceptual, logical, physical, and dimensional data models for the revised accountability framework project."
+DCKA-2022-R-0040,True,200,application/json; charset=utf-8,1,DC Circulator Program Management Support Services
+Doc777800,False,204,,0,
+DCKA-2020-B-0038,True,200,application/json; charset=utf-8,6,Rock Creek Park Trail and Pedestrian Bridge
+DCKA-2020-Q-0040,True,200,application/json; charset=utf-8,5,DESIGN SERVICES FOR THE DC PLUG PROGRAM  2ND AND 3RD BIENNIAL PLANS
+DCKA-2020-B-0020,True,200,application/json; charset=utf-8,6,CITY-WIDE LOCAL TRAFFIC SAFETY IMPROVEMENT (CONSTRUCTION)
+DCKA-2020-B-0028,True,200,application/json; charset=utf-8,1,Drainage and Stormwater Improvements Construction
+DCKA-2020-C-0020,False,204,,0,
+DCKA-2023-B-0036,True,200,application/json; charset=utf-8,2,Safe Routes to School  Sidewalk and Safety Construction

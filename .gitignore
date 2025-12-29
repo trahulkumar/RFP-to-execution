@@ -1,5 +1,5 @@
 # Data directories
-data/
+# data/ (uncommented to push to GitHub)
 archive/
 
 # Python
